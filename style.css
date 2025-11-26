@@ -13,7 +13,7 @@
 }
 
 .header-cat {
-  width: 100px;
+  width: 80px;
   height: auto;
   vertical-align: middle;
   margin-left: 8px;
@@ -248,3 +248,4 @@ body::after {
   opacity: 0.12;
   pointer-events: none;
 }
+
