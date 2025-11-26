@@ -100,7 +100,6 @@ body {
 .hero-left {
   flex: 1;
 }
-
 .hero-right img {
   max-width: 331px;
   max-height: 369px;
@@ -249,5 +248,3 @@ body::after {
   opacity: 0.12;
   pointer-events: none;
 }
-
-
