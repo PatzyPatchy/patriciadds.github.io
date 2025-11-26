@@ -12,6 +12,14 @@
     Roboto, "Helvetica Neue", Arial;
 }
 
+.footer-cat {
+  width: 100px;
+  height: auto;
+  vertical-align: middle;
+  margin-left: 8px;
+  opacity: 0.85;
+}
+
 * {
   box-sizing: border-box;
 }
@@ -237,3 +245,4 @@ body::after {
   opacity: 0.12;
   pointer-events: none;
 }
+
